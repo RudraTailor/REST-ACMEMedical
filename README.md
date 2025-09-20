@@ -1,6 +1,5 @@
-# CST8276_Group_Project_Section_300
+# REST-ACMEMedical
 RESTful Jakarta EE Medical API for CST8277 – Group project implementing JPA entity mapping, secure CRUD APIs, and JUnit testing for ACME Medical database.
-# REST-ACMEMedical Group Project
 
 A secure Jakarta EE RESTful API for managing medical records at ACME Medical Corp.  
 Implements JPA-annotated entities, business logic, secure CRUD endpoints, and comprehensive JUnit testing.
@@ -16,6 +15,6 @@ Implements JPA-annotated entities, business logic, secure CRUD endpoints, and co
 - **Postman Collection:** For manual REST endpoint testing
 
 
-@authors:
-Rudra Tailor
-Armaan Singh
+
+# BY: Rudra Tailor
+
